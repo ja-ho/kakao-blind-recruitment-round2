@@ -1,4 +1,4 @@
-# 2018_kakao_blind_recruitment_round_2
+# kakao-blind-recruitment-round2
 The code that passed the exam.
 
 ## Reference
